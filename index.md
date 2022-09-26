@@ -4,7 +4,7 @@ title: Rainer's Gitarrenschule
 ---  
 
 <script type="text/javascript">
-   var audio = new Audio('Music/Constantin.mp3');
+   var audio = new Audio('Music/Mary had a little lamb.mp3');
    audio.play();
 </script>
 
