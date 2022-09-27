@@ -3,18 +3,6 @@ title: Rainer's Gitarrenschule
 
 ---  
 
-<audio controls>
-	<source src="Music/Shine on You Crazy Diamond.mp3" type="audio/mp4">	
-</audio>
-  
-  
-<!-- 
-<script type="text/javascript">
-   var audio = new Audio('Music/Shine on You Crazy Diamond.mp3');
-   audio.play();
-</script> 
--->
-
 ## Tabulaturen als PDF
 
 Tab | Level | Genre | Video | Backing Track |
@@ -45,5 +33,3 @@ Tab | Level | Genre | Video | Backing Track |
 <a href="https://rainerlueers.github.io/Gitarrenschule/Noten/The Eagles - Hotel California - Guitar Solo (Transcribed by Daniele Tornaghi).pdf" target="_blank" rel="noopener noreferrer" >The Eagles - Hotel California - Guitar Solo</a> | Moderate | Rock | <a href="https://www.youtube.com/watch?v=MXRMFyzNEJ8" target="_blank">Anleitung</a> | Track |
 <a href="https://rainerlueers.github.io/Gitarrenschule/Noten/U2 - One (Transcribed by Daniele Tornaghi).pdf" target="_blank" rel="noopener noreferrer" >U2 - One</a> | Easy | Pop Rock | <a href="https://www.youtube.com/watch?v=Xuyl0qJeL5M" target="_blank">Anleitung</a> | Track |
 
-
-<audio controls><source src="Music/Shine on You Crazy Diamond.mp3" type="audio/mp4"></audio>
