@@ -3,10 +3,14 @@ title: Rainer's Gitarrenschule
 
 ---  
 
-<script type="text/javascript">
+<audio controls>
+	<source src="Music/Shine on You Crazy Diamond.mp3" type="audio/mp4">	
+</audio>
+
+<!-- <script type="text/javascript">
    var audio = new Audio('Music/Shine on You Crazy Diamond.mp3');
    audio.play();
-</script>
+</script> -->
 
 ## Tabulaturen als PDF
 
