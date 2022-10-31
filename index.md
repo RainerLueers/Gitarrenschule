@@ -3,7 +3,7 @@ title: Rainer's Gitarrenschule
 
 ---  
 
-## Tabulaturen als PDF
+## Tabulaturen und Spielanleitungen
 
 Tab | Level | Genre | Video | Backing Track | Patch |
 ---------|---------|---------|---------|---------|---------|
@@ -32,4 +32,8 @@ Tab | Level | Genre | Video | Backing Track | Patch |
 <a href="https://rainerlueers.github.io/Gitarrenschule/Noten/Stevie Ray Vaughan - Mary Had A Little Lamb (Transcribed by Daniele Tornaghi).pdf" target="_blank" rel="noopener noreferrer" >Stevie Ray Vaughan - Mary Had A Little Lamb</a> | Moderate | Blues | <a href="https://www.youtube.com/watch?v=W8-WDdddZr0" target="_blank">Anleitung</a> | <audio controls><source src="BackingTrack/mary had a little lamb backing track stevie ray vaughan.mp3" type="audio/mp4"></audio> | <a href="https://rainerlueers.github.io/Gitarrenschule/Patches/SRV.zg1xf" target="_blank" rel="noopener noreferrer" >Zoom G1X Four</a> |
 <a href="https://rainerlueers.github.io/Gitarrenschule/Noten/The Eagles - Hotel California - Guitar Solo (Transcribed by Daniele Tornaghi).pdf" target="_blank" rel="noopener noreferrer" >The Eagles - Hotel California - Guitar Solo</a> | Moderate | Rock | <a href="https://www.youtube.com/watch?v=MXRMFyzNEJ8" target="_blank">Anleitung</a> | <audio controls><source src="BackingTrack/Eagles - Hotel California - Guitar Solo Backing Track.mp3" type="audio/mp4"></audio> | Patch |
 <a href="https://rainerlueers.github.io/Gitarrenschule/Noten/U2 - One (Transcribed by Daniele Tornaghi).pdf" target="_blank" rel="noopener noreferrer" >U2 - One</a> | Easy | Pop Rock | <a href="https://www.youtube.com/watch?v=Xuyl0qJeL5M" target="_blank">Anleitung</a> | Track | Patch |
+
+## Blues Kurs
+
+<a href="https://www.learningguitarnow.com/free-blues-course-video-1/" target="_blank">Breaking Out of The Pentatonic Box</a>
 
