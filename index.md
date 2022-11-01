@@ -33,7 +33,14 @@ Tab | Level | Genre | Video | Backing Track | Patch |
 <a href="https://rainerlueers.github.io/Gitarrenschule/Noten/The Eagles - Hotel California - Guitar Solo (Transcribed by Daniele Tornaghi).pdf" target="_blank" rel="noopener noreferrer" >The Eagles - Hotel California - Guitar Solo</a> | Moderate | Rock | <a href="https://www.youtube.com/watch?v=MXRMFyzNEJ8" target="_blank">Anleitung</a> | <audio controls><source src="BackingTrack/Eagles - Hotel California - Guitar Solo Backing Track.mp3" type="audio/mp4"></audio> | Patch |
 <a href="https://rainerlueers.github.io/Gitarrenschule/Noten/U2 - One (Transcribed by Daniele Tornaghi).pdf" target="_blank" rel="noopener noreferrer" >U2 - One</a> | Easy | Pop Rock | <a href="https://www.youtube.com/watch?v=Xuyl0qJeL5M" target="_blank">Anleitung</a> | Track | Patch |
 
-## Blues Kurs
+## Blues workshops for beginners
 
+### John W. Tuggle
 <a href="https://www.learningguitarnow.com/free-blues-course-video-1/" target="_blank">Breaking Out of The Pentatonic Box</a>
+
+### Zombie Guitar
+<a href="https://www.zombieguitar.com/how-to-easily-learn-songs-by-ear" target="_blank">How to Easily Learn Songs by Ear</a>
+<a href="https://www.zombieguitar.com/solo-like-a-pro-in-8-weeks" target="_blank">Solo Like a Pro in 8 Weeks</a>
+<a href="https://www.zombieguitar.com/9-steps-to-fully-understanding-the-caged-system" target="_blank">9 Steps to FULLY Understanding the CAGED System</a>
+
 
