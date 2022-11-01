@@ -36,11 +36,15 @@ Tab | Level | Genre | Video | Backing Track | Patch |
 ## Blues workshops for beginners
 
 ### John W. Tuggle
-<a href="https://www.learningguitarnow.com/free-blues-course-video-1/" target="_blank">Breaking Out of The Pentatonic Box</a>
+<a href="https://www.learningguitarnow.com/free-blues-course-video-1/" target="_blank">Breaking Out of The Pentatonic Box</a>  
+
 
 ### Zombie Guitar
-<a href="https://www.zombieguitar.com/how-to-easily-learn-songs-by-ear" target="_blank">How to Easily Learn Songs by Ear</a>
-<a href="https://www.zombieguitar.com/solo-like-a-pro-in-8-weeks" target="_blank">Solo Like a Pro in 8 Weeks</a>
-<a href="https://www.zombieguitar.com/9-steps-to-fully-understanding-the-caged-system" target="_blank">9 Steps to FULLY Understanding the CAGED System</a>
+<a href="https://www.zombieguitar.com/how-to-easily-learn-songs-by-ear" target="_blank">How to Easily Learn Songs by Ear</a>  
+
+<a href="https://www.zombieguitar.com/solo-like-a-pro-in-8-weeks" target="_blank">Solo Like a Pro in 8 Weeks</a>  
+
+<a href="https://www.zombieguitar.com/9-steps-to-fully-understanding-the-caged-system" target="_blank">9 Steps to FULLY Understanding the CAGED System</a>  
+
 
 
