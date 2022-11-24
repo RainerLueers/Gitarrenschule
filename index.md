@@ -1,4 +1,5 @@
 * <a href="https://rainerlueers.github.io/Gitarrenschule/workshops.html">Workshops</a>
+* <a href="https://rainerlueers.github.io/Gitarrenschule/harley_benton_dnafx.html">Workshops</a>
 
 ---
 title: Rainer's Gitarrenschule
