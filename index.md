@@ -1,6 +1,7 @@
+* <a href="https://rainerlueers.github.io/Gitarrenschule/workshops.html">Workshops</a>
+
 ---
 title: Rainer's Gitarrenschule
-
 ---  
 
 ## Tabulaturen und Spielanleitungen
