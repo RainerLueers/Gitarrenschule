@@ -41,7 +41,7 @@ Chris Isaak - Wicked Game | Easy | Pop Rock | <a href="https://www.youtube.com/w
 
 Spalte | Spalte | 
 ---------|---------|
-<a href="https://rainerlueers.github.io/Gitarrenschule/Books/Guitar_Chord_Songwriting_Cheat_Sheet_2019.pdf" target="_blank" rel="noopener noreferrer" >CHORD & SONGWRITING CHEAT SHEET</a> | Nützliche und unkomplizierte Gitarrenakkordtabellen und Anleitungen zum Erstellen professioneller Akkordfolgen für Eigenkompositionen. |
+<a href="https://rainerlueers.github.io/Gitarrenschule/Books/Guitar_Chord___Songwriting_Cheat_Sheet_2019.pdf" target="_blank" rel="noopener noreferrer" >CHORD & SONGWRITING CHEAT SHEET</a> | Nützliche und unkomplizierte Gitarrenakkordtabellen und Anleitungen zum Erstellen professioneller Akkordfolgen für Eigenkompositionen. |
 
 
 
