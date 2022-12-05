@@ -43,8 +43,6 @@ Spalte | Spalte |
 ---------|---------|
 <a href="https://rainerlueers.github.io/Gitarrenschule/Books/Guitar_Chord___Songwriting_Cheat_Sheet_2019.pdf" target="_blank" rel="noopener noreferrer" >CHORD & SONGWRITING CHEAT SHEET</a> | Nützliche und unkomplizierte Gitarrenakkordtabellen und Anleitungen zum Erstellen professioneller Akkordfolgen für Eigenkompositionen. |
 
-<iframe width="320" height="240" src="https://www.youtube.com/embed/ReXgSAs65QA" title="Voll geladen: neue Speicher für die Energiewende – Leschs Kosmos [Ganze TV-Folge] | Harald Lesch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <a href="#">Top</a> 
 
 
