@@ -46,6 +46,9 @@ Spalte | Spalte |
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/ReXgSAs65QA" title="Voll geladen: neue Speicher für die Energiewende – Leschs Kosmos [Ganze TV-Folge] | Harald Lesch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<video width="320" height="270" controls autoplay>
+<source src="https://www.youtube.com/embed/ReXgSAs65QA" type="video/mp4“></source>
+</video>
 
 <a href="#">Top</a> 
 
